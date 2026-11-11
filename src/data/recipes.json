@@ -1,0 +1,889 @@
+[
+  {
+    "id": "oat-overnight-pisang-chia",
+    "title": "Oat Overnight Pisang & Chia",
+    "description": "Sarapan tanpa masak — oat, chia dan pisang yang direndam semalaman.",
+    "emoji": "🥣",
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Sarapan"
+    ],
+    "prepTime": "5 minit + rendam semalaman",
+    "calories": 320,
+    "ingredients": [
+      "40 g oat gulung",
+      "1 sudu besar biji chia",
+      "150 ml susu rendah lemak / susu badam",
+      "1/2 biji pisang, dihiris",
+      "1 sudu teh madu (pilihan)",
+      "Sedikit kayu manis"
+    ],
+    "instructions": [
+      "Campurkan oat, biji chia, susu dan kayu manis dalam balang.",
+      "Tutup dan simpan dalam peti sejuk semalaman.",
+      "Pagi esok, hiaskan dengan pisang dan madu. Hidang sejuk."
+    ]
+  },
+  {
+    "id": "telur-hancur-bayam-tomato",
+    "title": "Telur Hancur Bayam & Tomato",
+    "description": "Telur lembut bersama bayam dan tomato, siap dalam 10 minit.",
+    "emoji": "🍳",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Sarapan",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "10 minit",
+    "calories": 250,
+    "ingredients": [
+      "2 biji telur",
+      "1 genggam bayam",
+      "1/2 biji tomato, didadu",
+      "1/2 sudu teh minyak zaitun",
+      "Garam dan lada hitam secukup rasa"
+    ],
+    "instructions": [
+      "Panaskan minyak dalam kuali tidak melekat.",
+      "Tumis bayam dan tomato sehingga layu.",
+      "Masukkan telur yang telah dipukul, kacau perlahan sehingga masak.",
+      "Perasakan dengan garam dan lada hitam."
+    ]
+  },
+  {
+    "id": "roti-gandum-alpukat-telur-rebus",
+    "title": "Roti Gandum Alpukat & Telur Rebus",
+    "description": "Roti gandum penuh dengan alpukat berperisa limau dan telur rebus.",
+    "emoji": "🥑",
+    "image": null,
+    "categories": [
+      "Sarapan"
+    ],
+    "prepTime": "10 minit",
+    "calories": 340,
+    "ingredients": [
+      "1 keping roti gandum penuh",
+      "1/2 biji alpukat",
+      "1 biji telur rebus",
+      "Perahan limau nipis",
+      "Serbuk cili & garam sedikit"
+    ],
+    "instructions": [
+      "Bakar roti gandum.",
+      "Lenyekkan alpukat bersama limau, garam dan serbuk cili.",
+      "Sapukan atas roti dan letakkan hirisan telur rebus di atasnya."
+    ]
+  },
+  {
+    "id": "smoothie-hijau-detoks",
+    "title": "Smoothie Hijau Detoks",
+    "description": "Smoothie hijau segar daripada bayam, epal hijau, timun dan pisang.",
+    "emoji": "🥬",
+    "image": null,
+    "categories": [
+      "Sarapan"
+    ],
+    "prepTime": "5 minit",
+    "calories": 210,
+    "ingredients": [
+      "1 genggam bayam",
+      "1/2 biji epal hijau",
+      "1/2 batang timun",
+      "1/2 biji pisang beku",
+      "200 ml air kelapa / air sejuk",
+      "1 sudu teh biji chia"
+    ],
+    "instructions": [
+      "Masukkan semua bahan dalam pengisar.",
+      "Kisar sehingga licin.",
+      "Hidang segera."
+    ]
+  },
+  {
+    "id": "bubur-oat-ayam",
+    "title": "Bubur Oat Ayam",
+    "description": "Bubur oat berkuah ayam yang ringan dan menghangatkan perut.",
+    "emoji": "🍲",
+    "image": null,
+    "categories": [
+      "Sarapan",
+      "Tinggi Protein"
+    ],
+    "prepTime": "15 minit",
+    "calories": 300,
+    "ingredients": [
+      "40 g oat",
+      "80 g dada ayam, dicincang",
+      "400 ml air / stok ayam rendah garam",
+      "1 ulas bawang putih, dicincang",
+      "Halia sedikit, dihiris halus",
+      "Daun bawang & bawang goreng sedikit"
+    ],
+    "instructions": [
+      "Tumis bawang putih dan halia dengan sedikit minyak.",
+      "Masukkan ayam cincang dan kacau hingga berubah warna.",
+      "Tuang air/stok, didihkan, kemudian masukkan oat.",
+      "Masak 5–7 minit hingga pekat. Tabur daun bawang."
+    ]
+  },
+  {
+    "id": "pancake-pisang-3-bahan",
+    "title": "Pancake Pisang 3 Bahan",
+    "description": "Pancake lembut tanpa tepung — hanya pisang, telur dan oat.",
+    "emoji": "🥞",
+    "image": null,
+    "categories": [
+      "Sarapan"
+    ],
+    "prepTime": "15 minit",
+    "calories": 280,
+    "ingredients": [
+      "1 biji pisang masak",
+      "2 biji telur",
+      "2 sudu besar oat dikisar",
+      "Sedikit kayu manis"
+    ],
+    "instructions": [
+      "Lenyekkan pisang, campurkan telur dan oat hingga sebati.",
+      "Panaskan kuali tidak melekat dengan api perlahan.",
+      "Tuang adunan kecil-kecil dan masak 1–2 minit setiap belah."
+    ]
+  },
+  {
+    "id": "yogurt-greek-buah-beri-granola",
+    "title": "Yogurt Greek Buah Beri & Granola",
+    "description": "Yogurt Greek berkrim dengan buah beri dan granola rangup.",
+    "emoji": "🫐",
+    "image": null,
+    "categories": [
+      "Sarapan",
+      "Tinggi Protein"
+    ],
+    "prepTime": "5 minit",
+    "calories": 260,
+    "ingredients": [
+      "150 g yogurt Greek tanpa gula",
+      "1/2 cawan buah beri campuran",
+      "2 sudu besar granola rendah gula",
+      "1 sudu teh madu"
+    ],
+    "instructions": [
+      "Masukkan yogurt dalam mangkuk.",
+      "Hiaskan dengan buah beri dan granola.",
+      "Siram sedikit madu."
+    ]
+  },
+  {
+    "id": "smoothie-bowl-pitaya",
+    "title": "Smoothie Bowl Buah Naga",
+    "description": "Mangkuk smoothie berwarna merah jambu cerah dengan buah naga, pisang dan topping granola.",
+    "emoji": "🐉",
+    "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Sarapan"
+    ],
+    "prepTime": "10 minit",
+    "calories": 280,
+    "servings": 1,
+    "ingredients": [
+      "1 cawan buah naga merah, dibekukan",
+      "1 biji pisang, dibekukan",
+      "1/2 cawan yogurt asli rendah lemak",
+      "1/4 cawan susu badam",
+      "2 sudu besar granola tanpa gula",
+      "1 sudu teh biji chia",
+      "Hirisan kiwi dan strawberi untuk hiasan"
+    ],
+    "instructions": [
+      "Masukkan buah naga, pisang, yogurt dan susu badam ke dalam pengisar.",
+      "Kisar sehingga licin dan pekat. Tambah susu sedikit demi sedikit jika terlalu pekat.",
+      "Tuang ke dalam mangkuk.",
+      "Hiaskan dengan granola, biji chia, kiwi dan strawberi.",
+      "Hidangkan segera sebelum smoothie cair."
+    ]
+  },
+  {
+    "id": "nasi-ayam-panggang-kunyit",
+    "title": "Nasi Ayam Panggang Kunyit",
+    "description": "Ayam panggang berempah kunyit bersama nasi perang dan ulam.",
+    "emoji": "🍗",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Tinggi Protein"
+    ],
+    "prepTime": "35 minit",
+    "calories": 450,
+    "ingredients": [
+      "120 g dada ayam",
+      "1/2 sudu teh serbuk kunyit",
+      "1 ulas bawang putih, dihancurkan",
+      "1/2 cawan nasi perang",
+      "Timun & tomato untuk ulam",
+      "Perahan limau"
+    ],
+    "instructions": [
+      "Perap ayam dengan kunyit, bawang putih, garam dan limau selama 15 minit.",
+      "Panggang dalam ketuhar 200°C selama 20 minit atau dalam air fryer 15 minit.",
+      "Hidang bersama nasi perang dan ulam."
+    ]
+  },
+  {
+    "id": "salad-ayam-ala-thai",
+    "title": "Salad Ayam Ala Thai",
+    "description": "Salad ayam siat dengan sos limau pedas masam ala Thai.",
+    "emoji": "🥗",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "20 minit",
+    "calories": 350,
+    "ingredients": [
+      "120 g dada ayam rebus, disiat",
+      "1 cawan kobis ungu & salad",
+      "1/2 lobak merah, diracik",
+      "Daun ketumbar & pudina",
+      "Sos: 1 sudu besar limau, 1 sudu teh sos ikan, 1/2 sudu teh gula perang, cili padi"
+    ],
+    "instructions": [
+      "Siat ayam yang telah direbus.",
+      "Campurkan semua sayur dalam mangkuk besar.",
+      "Bancuh bahan sos dan gaul bersama salad dan ayam."
+    ]
+  },
+  {
+    "id": "ikan-siakap-stim-limau",
+    "title": "Ikan Siakap Stim Limau",
+    "description": "Siakap stim bersama limau, cili padi dan serai.",
+    "emoji": "🐟",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 320,
+    "ingredients": [
+      "1 ekor siakap kecil (300 g)",
+      "3 ulas bawang putih, dicincang",
+      "3 biji cili padi",
+      "2 sudu besar jus limau nipis",
+      "1 batang serai, dititik",
+      "Daun ketumbar",
+      "Sedikit garam"
+    ],
+    "instructions": [
+      "Bersihkan ikan dan letak atas pinggan tahan panas.",
+      "Campurkan bawang putih, cili, jus limau, garam dan sedikit air; tuang atas ikan.",
+      "Letak serai di atas dan kukus 15 minit.",
+      "Tabur daun ketumbar sebelum dihidang."
+    ]
+  },
+  {
+    "id": "mi-shirataki-goreng-sayur",
+    "title": "Mi Shirataki Goreng Sayur",
+    "description": "Mi shirataki rendah kalori digoreng bersama udang dan sayur.",
+    "emoji": "🍜",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Rendah Karbo"
+    ],
+    "prepTime": "15 minit",
+    "calories": 220,
+    "ingredients": [
+      "200 g mi shirataki, dibilas",
+      "80 g udang",
+      "Sawi, lobak merah & kobis",
+      "1 ulas bawang putih",
+      "1 sudu besar kicap rendah garam",
+      "1 sudu teh minyak bijan"
+    ],
+    "instructions": [
+      "Bilas mi shirataki dan goreng tanpa minyak 2 minit untuk keringkan.",
+      "Tumis bawang putih, masukkan udang dan sayur.",
+      "Masukkan mi dan kicap, gaul rata. Akhiri dengan minyak bijan."
+    ]
+  },
+  {
+    "id": "nasi-kerabu-sihat",
+    "title": "Nasi Kerabu Sihat",
+    "description": "Nasi kerabu bunga telang dengan ulam, ikan bakar dan telur.",
+    "emoji": "🌸",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Tinggi Protein"
+    ],
+    "prepTime": "30 minit",
+    "calories": 420,
+    "ingredients": [
+      "1/2 cawan nasi perang/beras bunga telang",
+      "Ulam: kacang botol, timun, taugeh, daun kesum",
+      "2 sudu besar kerisik (sedikit)",
+      "100 g ikan bakar",
+      "1 biji telur rebus",
+      "Budu sedikit + limau"
+    ],
+    "instructions": [
+      "Masak nasi bersama beberapa kuntum bunga telang.",
+      "Racik semua ulam halus-halus.",
+      "Susun nasi, ulam, ikan bakar dan telur rebus.",
+      "Hidang dengan budu berlimau."
+    ]
+  },
+  {
+    "id": "wrap-tortilla-gandum-ayam",
+    "title": "Wrap Tortilla Gandum Ayam",
+    "description": "Wrap gandum penuh berisi ayam panggang dan sos yogurt.",
+    "emoji": "🌯",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Tinggi Protein"
+    ],
+    "prepTime": "15 minit",
+    "calories": 380,
+    "ingredients": [
+      "1 keping tortilla gandum penuh",
+      "100 g ayam panggang, dihiris",
+      "Daun salad & tomato",
+      "2 sudu besar yogurt (ganti mayonis)",
+      "Sedikit mustard"
+    ],
+    "instructions": [
+      "Panaskan tortilla sekejap.",
+      "Sapukan campuran yogurt dan mustard.",
+      "Susun salad, tomato dan ayam. Gulung ketat dan potong dua."
+    ]
+  },
+  {
+    "id": "sup-sayur-ayam-kosong",
+    "title": "Sup Sayur Ayam Kosong",
+    "description": "Sup ayam jernih dengan kentang, lobak merah dan saderi.",
+    "emoji": "🥕",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Makan Tengah Hari"
+    ],
+    "prepTime": "30 minit",
+    "calories": 250,
+    "ingredients": [
+      "100 g ayam tanpa kulit",
+      "1 biji kentang kecil",
+      "1 batang lobak merah",
+      "1/2 batang saderi",
+      "Bawang merah & putih",
+      "Rempah sup 1 sudu teh",
+      "Daun sup & daun bawang"
+    ],
+    "instructions": [
+      "Tumis bawang dan rempah sup dengan sedikit minyak.",
+      "Masukkan ayam, kemudian air. Didihkan 15 minit.",
+      "Masukkan kentang dan lobak, masak hingga lembut.",
+      "Perasakan dan tabur daun sup."
+    ]
+  },
+  {
+    "id": "quinoa-bowl-ayam-sayur",
+    "title": "Quinoa Bowl Ayam & Sayur",
+    "description": "Mangkuk quinoa dengan ayam panggang, brokoli dan alpukat.",
+    "emoji": "🥙",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 430,
+    "ingredients": [
+      "1/2 cawan quinoa masak",
+      "100 g ayam panggang",
+      "1/2 cawan brokoli kukus",
+      "1/4 biji alpukat",
+      "Jagung & tomato ceri",
+      "Dressing: limau + minyak zaitun"
+    ],
+    "instructions": [
+      "Masak quinoa mengikut arahan pek.",
+      "Susun quinoa, ayam, brokoli, alpukat, jagung dan tomato dalam mangkuk.",
+      "Siram dressing sebelum makan."
+    ]
+  },
+  {
+    "id": "tom-yam-campur-jernih",
+    "title": "Tom Yam Campur Jernih",
+    "description": "Tom yam jernih tanpa santan dengan udang dan sotong.",
+    "emoji": "🍤",
+    "image": null,
+    "categories": [
+      "Makan Tengah Hari",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 230,
+    "ingredients": [
+      "100 g udang & sotong",
+      "50 g cendawan",
+      "1 batang serai, 3 helai daun limau purut",
+      "2 keping lengkuas",
+      "Cili padi, jus limau",
+      "1 sudu teh sos ikan"
+    ],
+    "instructions": [
+      "Didihkan 500 ml air bersama serai, lengkuas dan daun limau purut.",
+      "Masukkan cendawan dan makanan laut, masak 3–5 minit.",
+      "Perasakan dengan sos ikan, cili padi dan jus limau."
+    ]
+  },
+  {
+    "id": "salad-ayam-bakar",
+    "title": "Salad Ayam Bakar",
+    "description": "Salad segar dengan dada ayam bakar berempah, sayur-sayuran rangup dan sos limau madu yang ringan.",
+    "emoji": "🥗",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Makan Tengah Hari",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 380,
+    "servings": 2,
+    "ingredients": [
+      "250 g dada ayam tanpa kulit",
+      "1 sudu teh serbuk kunyit",
+      "1 sudu teh serbuk lada hitam",
+      "1 sudu besar minyak zaitun",
+      "2 cawan daun salad campuran",
+      "1 biji timun, dihiris",
+      "10 biji tomato ceri, dibelah dua",
+      "1/2 biji bawang besar ungu, dihiris nipis",
+      "Jus 1 biji limau nipis",
+      "1 sudu teh madu",
+      "Garam secukup rasa"
+    ],
+    "instructions": [
+      "Perap dada ayam dengan kunyit, lada hitam, garam dan separuh minyak zaitun selama 15 minit.",
+      "Panaskan kuali leper (grill pan) dan bakar ayam 5–6 minit setiap belah sehingga masak sepenuhnya.",
+      "Rehatkan ayam selama 5 minit, kemudian hiris nipis.",
+      "Satukan daun salad, timun, tomato ceri dan bawang ungu di dalam mangkuk besar.",
+      "Bancuh sos dengan mencampurkan jus limau nipis, madu, baki minyak zaitun dan sedikit garam.",
+      "Susun hirisan ayam di atas salad, siram sos dan hidangkan segera."
+    ]
+  },
+  {
+    "id": "ikan-bakar-air-fryer-air-asam",
+    "title": "Ikan Bakar Air Fryer & Air Asam",
+    "description": "Ikan berkunyit dibakar dalam air fryer, dicicah air asam.",
+    "emoji": "🔥",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 300,
+    "ingredients": [
+      "1 ekor ikan kembung/ 150 g isi ikan",
+      "1/2 sudu teh kunyit & garam",
+      "Air asam: bawang merah, cili padi, tomato, limau kasturi, kicap sedikit"
+    ],
+    "instructions": [
+      "Lumur ikan dengan kunyit dan garam.",
+      "Masak dalam air fryer 180°C selama 15–18 minit.",
+      "Sediakan air asam dan hidang bersama ulam."
+    ]
+  },
+  {
+    "id": "dada-ayam-lemon-herba",
+    "title": "Dada Ayam Lemon Herba",
+    "description": "Dada ayam berperisa lemon dan herba bersama sayur kukus.",
+    "emoji": "🍋",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "30 minit",
+    "calories": 330,
+    "ingredients": [
+      "150 g dada ayam",
+      "Jus 1/2 biji lemon",
+      "1 sudu teh herba campuran (oregano/thyme)",
+      "1 ulas bawang putih",
+      "1 sudu teh minyak zaitun",
+      "Sayur kukus: brokoli & lobak"
+    ],
+    "instructions": [
+      "Perap ayam dengan lemon, herba, bawang putih dan minyak 20 minit.",
+      "Panggang atau pan-sear 6–7 minit setiap belah.",
+      "Hidang bersama sayur kukus."
+    ]
+  },
+  {
+    "id": "tauhu-sumbat-kukus",
+    "title": "Tauhu Sumbat Kukus",
+    "description": "Tauhu keras disumbat inti ayam atau ikan, kemudian dikukus.",
+    "emoji": "🧈",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 260,
+    "ingredients": [
+      "2 keping tauhu keras",
+      "80 g isi ayam/ikan dikisar",
+      "Lobak merah & daun bawang dicincang",
+      "1 sudu teh kicap rendah garam",
+      "Lada putih"
+    ],
+    "instructions": [
+      "Belah tauhu dan korek sedikit bahagian tengah.",
+      "Gaul isi ayam dengan sayur, kicap dan lada.",
+      "Sumbat ke dalam tauhu dan kukus 15 minit."
+    ]
+  },
+  {
+    "id": "salmon-panggang-asparagus",
+    "title": "Salmon Panggang & Asparagus",
+    "description": "Salmon panggang bersama asparagus, lemon dan bawang putih.",
+    "emoji": "🍣",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "20 minit",
+    "calories": 420,
+    "ingredients": [
+      "120 g isi salmon",
+      "5–6 batang asparagus",
+      "1 sudu teh minyak zaitun",
+      "Garam, lada hitam & lemon",
+      "Bawang putih sedikit"
+    ],
+    "instructions": [
+      "Susun salmon dan asparagus atas dulang.",
+      "Sapu minyak, bawang putih, garam dan lada.",
+      "Bakar 200°C selama 12–15 minit. Perah lemon."
+    ]
+  },
+  {
+    "id": "sayur-campur-tumis-air",
+    "title": "Sayur Campur Tumis Air",
+    "description": "Sayur campur ditumis dengan air, bukan minyak — ringan dan rangup.",
+    "emoji": "🥦",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo"
+    ],
+    "prepTime": "10 minit",
+    "calories": 150,
+    "ingredients": [
+      "Brokoli, kembang kol, lobak merah, cendawan",
+      "2 ulas bawang putih",
+      "1 sudu besar sos tiram rendah garam",
+      "Sedikit tepung jagung + air"
+    ],
+    "instructions": [
+      "Tumis bawang putih dengan sedikit air (bukan minyak).",
+      "Masukkan sayur keras dahulu, kemudian sayur lembut.",
+      "Masukkan sos tiram dan bancuhan tepung jagung untuk memekatkan."
+    ]
+  },
+  {
+    "id": "kari-ayam-ringan-santan-cair",
+    "title": "Kari Ayam Ringan Santan Cair",
+    "description": "Kari ayam dengan susu rendah lemak atau sedikit santan cair.",
+    "emoji": "🍛",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Tinggi Protein"
+    ],
+    "prepTime": "40 minit",
+    "calories": 380,
+    "ingredients": [
+      "150 g ayam tanpa kulit",
+      "2 sudu besar rempah kari",
+      "1 biji kentang kecil",
+      "100 ml susu rendah lemak/ santan cair sedikit",
+      "Bawang, halia, daun kari",
+      "1 sudu teh minyak"
+    ],
+    "instructions": [
+      "Tumis bawang, halia dan daun kari dengan 1 sudu teh minyak.",
+      "Masukkan rempah kari yang dibancuh, masak hingga garing.",
+      "Masukkan ayam dan kentang serta air, reneh 20 minit.",
+      "Akhir sekali masukkan susu/santan cair, didihkan sekejap."
+    ]
+  },
+  {
+    "id": "udang-bakar-bawang-putih-zucchini",
+    "title": "Udang Bakar Bawang Putih & Zucchini",
+    "description": "Udang bawang putih bersama zucchini, dibakar dengan paprika.",
+    "emoji": "🦐",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "20 minit",
+    "calories": 280,
+    "ingredients": [
+      "150 g udang",
+      "1 batang zucchini, dihiris",
+      "3 ulas bawang putih",
+      "1 sudu teh minyak zaitun",
+      "Lada & serbuk paprika"
+    ],
+    "instructions": [
+      "Gaul udang dan zucchini dengan bawang putih, minyak dan rempah.",
+      "Masak dalam air fryer 180°C 10 minit atau tumis 5 minit.",
+      "Hidang panas."
+    ]
+  },
+  {
+    "id": "sup-lentil-merah",
+    "title": "Sup Lentil Merah",
+    "description": "Sup lentil merah berempah jintan dan kunyit, kaya serat.",
+    "emoji": "🫘",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Tinggi Protein"
+    ],
+    "prepTime": "30 minit",
+    "calories": 300,
+    "ingredients": [
+      "1/2 cawan lentil merah",
+      "1/2 bawang besar",
+      "1 lobak merah",
+      "1 sudu teh jintan putih & kunyit",
+      "500 ml air/stok sayur",
+      "Jus lemon"
+    ],
+    "instructions": [
+      "Tumis bawang dan rempah.",
+      "Masukkan lentil, lobak dan air. Reneh 20 minit.",
+      "Kisar separuh untuk tekstur pekat. Perah lemon."
+    ]
+  },
+  {
+    "id": "telur-dadar-sayur-bakar",
+    "title": "Telur Dadar Sayur Bakar",
+    "description": "Telur dadar putih telur dengan sayur, dibakar dalam ketuhar.",
+    "emoji": "🥚",
+    "image": null,
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "25 minit",
+    "calories": 240,
+    "ingredients": [
+      "3 biji putih telur + 1 biji telur",
+      "Bawang besar, cili, tomato, bayam",
+      "Garam & lada"
+    ],
+    "instructions": [
+      "Pukul telur bersama sayur yang dicincang.",
+      "Tuang dalam bekas tahan panas.",
+      "Bakar 180°C selama 15–20 minit hingga kembang dan masak."
+    ]
+  },
+  {
+    "id": "tauhu-sayur-kukus",
+    "title": "Tauhu Kukus Sos Halia",
+    "description": "Tauhu sutera lembut dikukus bersama sos halia dan kicap — hidangan makan malam yang sangat ringan.",
+    "emoji": "🍥",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Makan Malam",
+      "Rendah Karbo",
+      "Tinggi Protein"
+    ],
+    "prepTime": "20 minit",
+    "calories": 210,
+    "servings": 2,
+    "ingredients": [
+      "1 bungkus tauhu sutera (300 g)",
+      "50 g isi ayam cincang (pilihan)",
+      "2 cm halia, dimayang halus",
+      "2 ulas bawang putih, dicincang",
+      "1 sudu besar kicap rendah natrium",
+      "1 sudu teh minyak bijan",
+      "1 batang daun bawang, dihiris",
+      "1/2 biji cili merah, dihiris (pilihan)",
+      "3 sudu besar air"
+    ],
+    "instructions": [
+      "Keluarkan tauhu perlahan-lahan dan letakkan di atas pinggan tahan panas. Potong menjadi kiub besar.",
+      "Jika menggunakan ayam cincang, tabur di atas tauhu.",
+      "Kukus selama 10 minit dengan api sederhana.",
+      "Sementara itu, tumis halia dan bawang putih dengan minyak bijan sehingga wangi.",
+      "Masukkan kicap dan air, biarkan mendidih seketika.",
+      "Siram sos ke atas tauhu yang telah dikukus.",
+      "Hiaskan dengan daun bawang dan cili merah. Hidangkan panas."
+    ]
+  },
+  {
+    "id": "nasi-kembang-kobis-goreng",
+    "title": "Nasi Goreng Kembang Kobis",
+    "description": "Versi rendah karbo nasi goreng kampung menggunakan kembang kobis parut sebagai ganti nasi.",
+    "emoji": "🍚",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=80",
+    "categories": [
+      "Makan Malam",
+      "Makan Tengah Hari",
+      "Rendah Karbo"
+    ],
+    "prepTime": "20 minit",
+    "calories": 240,
+    "servings": 2,
+    "ingredients": [
+      "1 biji kembang kobis sederhana, diparut atau dikisar kasar",
+      "2 biji telur",
+      "100 g udang, dibuang kulit",
+      "2 ulas bawang putih, dicincang",
+      "2 biji bawang merah, dihiris",
+      "1 sudu besar cili boh (kurangkan jika tidak suka pedas)",
+      "1 cawan sayur sawi, dipotong",
+      "1 sudu besar kicap rendah natrium",
+      "1 sudu besar minyak masak"
+    ],
+    "instructions": [
+      "Parut kembang kobis atau kisar kasar sehingga menyerupai butiran nasi. Ketepikan.",
+      "Panaskan minyak, tumis bawang putih, bawang merah dan cili boh sehingga garing dan wangi.",
+      "Masukkan udang dan masak sehingga bertukar warna merah jambu.",
+      "Tolak bahan ke tepi kuali, pecahkan telur dan kacau hingga hancur.",
+      "Masukkan kembang kobis dan sawi, gaul rata dengan api besar selama 5 minit.",
+      "Perasakan dengan kicap dan garam. Hidangkan panas."
+    ]
+  },
+  {
+    "id": "kerepek-kale-bayam-air-fryer",
+    "title": "Kerepek Kale/ Bayam Air Fryer",
+    "description": "Kerepek sayur rangup daripada air fryer — ganti kerepek biasa.",
+    "emoji": "🥬",
+    "image": null,
+    "categories": [
+      "Snek",
+      "Rendah Karbo"
+    ],
+    "prepTime": "10 minit",
+    "calories": 80,
+    "ingredients": [
+      "2 cawan daun kale atau bayam Brazil",
+      "1/2 sudu teh minyak zaitun",
+      "Garam & serbuk paprika"
+    ],
+    "instructions": [
+      "Keringkan daun dan gaul dengan minyak serta perasa.",
+      "Masak dalam air fryer 160°C 5–6 minit hingga rangup."
+    ]
+  },
+  {
+    "id": "kacang-kuda-panggang-rangup",
+    "title": "Kacang Kuda Panggang Rangup",
+    "description": "Kacang kuda panggang rangup berempah, snek tinggi serat.",
+    "emoji": "🧆",
+    "image": null,
+    "categories": [
+      "Snek"
+    ],
+    "prepTime": "30 minit",
+    "calories": 150,
+    "ingredients": [
+      "1 tin kacang kuda (chickpea), ditos",
+      "1 sudu teh minyak zaitun",
+      "Serbuk cili, jintan & garam"
+    ],
+    "instructions": [
+      "Keringkan kacang kuda dengan tuala kertas.",
+      "Gaul dengan minyak dan rempah.",
+      "Bakar 200°C 25 minit atau air fryer 15 minit, goncang sekali-sekala."
+    ]
+  },
+  {
+    "id": "buah-potong-celup-yogurt",
+    "title": "Buah Potong & Celup Yogurt",
+    "description": "Buah-buahan tempatan dicicah yogurt madu dan kayu manis.",
+    "emoji": "🍉",
+    "image": null,
+    "categories": [
+      "Snek"
+    ],
+    "prepTime": "5 minit",
+    "calories": 140,
+    "ingredients": [
+      "Epal, betik, tembikai",
+      "100 g yogurt tanpa gula",
+      "Sedikit madu & kayu manis"
+    ],
+    "instructions": [
+      "Potong buah-buahan.",
+      "Campur yogurt dengan madu dan kayu manis sebagai celup."
+    ]
+  },
+  {
+    "id": "puding-chia-mangga",
+    "title": "Puding Chia Mangga",
+    "description": "Puding chia berlapis mangga kisar, manis tanpa banyak gula.",
+    "emoji": "🥭",
+    "image": null,
+    "categories": [
+      "Pencuci Mulut"
+    ],
+    "prepTime": "10 minit + 2 jam",
+    "calories": 200,
+    "ingredients": [
+      "2 sudu besar biji chia",
+      "150 ml susu badam",
+      "1/2 biji mangga, dikisar",
+      "1 sudu teh madu"
+    ],
+    "instructions": [
+      "Campur biji chia, susu dan madu. Biarkan 2 jam dalam peti sejuk.",
+      "Lapiskan dengan mangga kisar sebelum dihidang."
+    ]
+  },
+  {
+    "id": "aiskrim-pisang-nice-cream",
+    "title": "Aiskrim Pisang 'Nice Cream'",
+    "description": "Aiskrim lembut daripada pisang beku — tanpa gula tambahan.",
+    "emoji": "🍌",
+    "image": null,
+    "categories": [
+      "Pencuci Mulut"
+    ],
+    "prepTime": "5 minit",
+    "calories": 150,
+    "ingredients": [
+      "2 biji pisang dibekukan, dihiris",
+      "1 sudu besar serbuk koko tanpa gula (pilihan)",
+      "Sedikit susu"
+    ],
+    "instructions": [
+      "Masukkan pisang beku dan koko dalam pengisar.",
+      "Kisar sehingga lembut seperti aiskrim; tambah sedikit susu jika perlu.",
+      "Hidang segera atau bekukan 30 minit."
+    ]
+  }
+]

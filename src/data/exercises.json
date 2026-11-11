@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "jalan-pantas",
+    "name": "Jalan Pantas",
+    "emoji": "🚶‍♀️",
+    "category": "Kardio",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 45,
+    "dose": "30–45 minit",
+    "muscles": [
+      "Kaki",
+      "Punggung",
+      "Jantung"
+    ],
+    "description": "Senaman paling mudah dan selamat untuk semua peringkat — sesuai dilakukan setiap hari.",
+    "steps": [
+      "Pakai kasut yang selesa dan berdiri tegak.",
+      "Mula berjalan perlahan selama 5 minit untuk memanaskan badan.",
+      "Tingkatkan kelajuan sehingga anda bernafas laju tetapi masih boleh bercakap.",
+      "Hayun tangan secara semula jadi dan kekalkan bahu santai.",
+      "Perlahankan langkah 5 minit terakhir untuk menyejukkan badan."
+    ],
+    "tips": [
+      "Sasarkan 7,000–10,000 langkah sehari.",
+      "Jalan selepas makan malam membantu mengawal gula dalam darah."
+    ]
+  },
+  {
+    "id": "jogging-setempat",
+    "name": "Jogging Setempat",
+    "emoji": "🏃‍♀️",
+    "category": "Kardio",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 74,
+    "dose": "3 set × 2 minit",
+    "muscles": [
+      "Kaki",
+      "Jantung"
+    ],
+    "description": "Berlari di tempat yang sama — sesuai untuk dilakukan di rumah ketika hujan.",
+    "steps": [
+      "Berdiri tegak dengan kaki selebar pinggul.",
+      "Angkat kaki bergilir-gilir seperti berlari perlahan.",
+      "Hayun tangan bertentangan dengan kaki.",
+      "Mendarat dengan lembut di hujung tapak kaki."
+    ],
+    "tips": [
+      "Gunakan tikar atau permaidani untuk mengurangkan hentakan pada lutut."
+    ]
+  },
+  {
+    "id": "jumping-jack",
+    "name": "Jumping Jack",
+    "emoji": "🤸‍♀️",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Seluruh badan",
+      "Jantung"
+    ],
+    "description": "Senaman kardio klasik yang cepat meningkatkan kadar denyutan jantung.",
+    "steps": [
+      "Berdiri tegak, kaki rapat dan tangan di sisi.",
+      "Lompat sambil membuka kaki dan mengangkat tangan ke atas kepala.",
+      "Lompat semula ke posisi asal.",
+      "Ulang dengan rentak yang konsisten."
+    ],
+    "tips": [
+      "Versi impak rendah: langkah ke sisi satu kaki demi satu tanpa melompat."
+    ]
+  },
+  {
+    "id": "lompat-tali",
+    "name": "Lompat Tali",
+    "emoji": "🪢",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tali skipping",
+    "caloriesPer10Min": 105,
+    "dose": "5 set × 1 minit",
+    "muscles": [
+      "Betis",
+      "Bahu",
+      "Jantung"
+    ],
+    "description": "Membakar kalori dengan sangat cepat dan melatih koordinasi.",
+    "steps": [
+      "Pegang hujung tali dengan siku rapat ke badan.",
+      "Putar tali menggunakan pergelangan tangan, bukan seluruh lengan.",
+      "Lompat rendah (2–3 cm) di hujung tapak kaki.",
+      "Rehat 30 saat antara set."
+    ],
+    "tips": [
+      "Tiada tali? Buat gerakan yang sama tanpa tali (lompat tali bayang)."
+    ]
+  },
+  {
+    "id": "naik-turun-tangga",
+    "name": "Naik Turun Tangga",
+    "emoji": "🪜",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tangga",
+    "caloriesPer10Min": 84,
+    "dose": "10–15 minit",
+    "muscles": [
+      "Paha",
+      "Punggung",
+      "Jantung"
+    ],
+    "description": "Menggunakan tangga rumah atau pangsapuri sebagai mesin kardio percuma.",
+    "steps": [
+      "Naik tangga dengan langkah penuh, tapak kaki di atas anak tangga.",
+      "Gunakan pemegang tangga untuk keseimbangan jika perlu.",
+      "Turun dengan perlahan dan terkawal.",
+      "Ulang secara berterusan."
+    ],
+    "tips": [
+      "Langkau satu anak tangga untuk lebih mencabar otot punggung."
+    ]
+  },
+  {
+    "id": "step-touch",
+    "name": "Step Touch",
+    "emoji": "💃",
+    "category": "Kardio",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 42,
+    "dose": "5–10 minit",
+    "muscles": [
+      "Kaki",
+      "Jantung"
+    ],
+    "description": "Kardio impak rendah yang lembut pada sendi — sesuai untuk pemula.",
+    "steps": [
+      "Langkah kaki kanan ke sisi kanan.",
+      "Rapatkan kaki kiri ke kaki kanan.",
+      "Ulang ke arah kiri.",
+      "Tambah gerakan tangan untuk meningkatkan intensiti."
+    ],
+    "tips": [
+      "Pasang muzik kegemaran supaya lebih seronok."
+    ]
+  },
+  {
+    "id": "high-knees",
+    "name": "Lutut Tinggi (High Knees)",
+    "emoji": "🦵",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Paha",
+      "Perut",
+      "Jantung"
+    ],
+    "description": "Jogging setempat dengan mengangkat lutut setinggi pinggang.",
+    "steps": [
+      "Berdiri tegak dengan tangan di hadapan paras pinggang.",
+      "Angkat lutut kanan sehingga menyentuh tangan.",
+      "Tukar ke lutut kiri dengan pantas.",
+      "Kekalkan badan tegak dan perut ketat."
+    ],
+    "tips": [
+      "Perlahankan rentak jika terasa pening atau sesak nafas."
+    ]
+  },
+  {
+    "id": "butt-kicks",
+    "name": "Tendang Punggung (Butt Kicks)",
+    "emoji": "🏃‍♀️",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 74,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Hamstring",
+      "Jantung"
+    ],
+    "description": "Jogging setempat sambil menendang tumit ke arah punggung.",
+    "steps": [
+      "Berdiri tegak, tangan di belakang pinggang dengan tapak tangan menghadap ke luar.",
+      "Tendang tumit kanan ke arah punggung.",
+      "Tukar kaki dengan pantas.",
+      "Kekalkan lutut menghala ke bawah."
+    ],
+    "tips": [
+      "Bagus sebagai gerakan memanaskan badan sebelum senaman lain."
+    ]
+  },
+  {
+    "id": "tarian-aerobik",
+    "name": "Tarian Aerobik",
+    "emoji": "💃",
+    "category": "Kardio",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 68,
+    "dose": "20–30 minit",
+    "muscles": [
+      "Seluruh badan",
+      "Jantung"
+    ],
+    "description": "Menari mengikut muzik atau video aerobik — membakar kalori sambil berseronok.",
+    "steps": [
+      "Pilih video aerobik atau senarai lagu yang rancak.",
+      "Mula dengan gerakan perlahan untuk memanaskan badan.",
+      "Ikut rentak muzik dengan gerakan tangan dan kaki.",
+      "Akhiri dengan 5 minit gerakan perlahan dan regangan."
+    ],
+    "tips": [
+      "Ajak kawan atau keluarga supaya lebih bermotivasi."
+    ]
+  },
+  {
+    "id": "berbasikal",
+    "name": "Berbasikal",
+    "emoji": "🚴‍♀️",
+    "category": "Kardio",
+    "level": "Mudah",
+    "equipment": "Basikal",
+    "caloriesPer10Min": 63,
+    "dose": "30 minit",
+    "muscles": [
+      "Paha",
+      "Betis",
+      "Jantung"
+    ],
+    "description": "Kardio impak rendah yang mesra lutut, di luar rumah atau basikal statik.",
+    "steps": [
+      "Laraskan tempat duduk supaya lutut sedikit bengkok di bawah kayuhan.",
+      "Kayuh perlahan selama 5 minit.",
+      "Tingkatkan kelajuan atau rintangan ke tahap sederhana.",
+      "Perlahankan semula pada 5 minit terakhir."
+    ],
+    "tips": [
+      "Pakai topi keledar jika berbasikal di jalan raya."
+    ]
+  },
+  {
+    "id": "berenang",
+    "name": "Berenang",
+    "emoji": "🏊‍♀️",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Kolam renang",
+    "caloriesPer10Min": 63,
+    "dose": "30 minit",
+    "muscles": [
+      "Seluruh badan",
+      "Jantung"
+    ],
+    "description": "Senaman seluruh badan tanpa hentakan pada sendi.",
+    "steps": [
+      "Panaskan badan dengan berjalan dalam air selama 5 minit.",
+      "Berenang gaya bebas atau kuak dada pada kadar selesa.",
+      "Rehat seketika di tepi kolam setiap 1–2 pusingan.",
+      "Tingkatkan jarak secara beransur-ansur."
+    ],
+    "tips": [
+      "Berjalan atau aerobik dalam air juga berkesan jika belum pandai berenang."
+    ]
+  },
+  {
+    "id": "tinju-bayang",
+    "name": "Tinju Bayang (Shadow Boxing)",
+    "emoji": "🥊",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 74,
+    "dose": "3 set × 2 minit",
+    "muscles": [
+      "Bahu",
+      "Lengan",
+      "Perut"
+    ],
+    "description": "Menumbuk udara dengan pelbagai kombinasi — melepaskan tekanan sambil membakar kalori.",
+    "steps": [
+      "Berdiri dengan satu kaki di hadapan, lutut sedikit bengkok.",
+      "Angkat penumbuk ke paras dagu.",
+      "Tumbuk lurus bergilir-gilir (jab dan cross), putar sedikit pinggang.",
+      "Kekal bergerak ringan di hujung tapak kaki."
+    ],
+    "tips": [
+      "Jangan luruskan siku sepenuhnya semasa menumbuk untuk melindungi sendi."
+    ]
+  },
+  {
+    "id": "skater-hop",
+    "name": "Lompatan Skater",
+    "emoji": "⛸️",
+    "category": "Kardio",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Punggung",
+      "Paha",
+      "Keseimbangan"
+    ],
+    "description": "Lompat ke sisi seperti peluncur ais — melatih kaki dan keseimbangan.",
+    "steps": [
+      "Berdiri di atas kaki kanan, kaki kiri diangkat ke belakang.",
+      "Lompat ke kiri dan mendarat di atas kaki kiri.",
+      "Hayun tangan bertentangan untuk keseimbangan.",
+      "Ulang ke kanan dan kiri berterusan."
+    ],
+    "tips": [
+      "Versi mudah: langkah ke sisi tanpa melompat."
+    ]
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "emoji": "🔥",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 8–10 ulangan",
+    "muscles": [
+      "Seluruh badan"
+    ],
+    "description": "Gabungan squat, plank dan lompatan — antara senaman paling berkesan membakar kalori.",
+    "steps": [
+      "Berdiri, kemudian squat dan letakkan tangan di lantai.",
+      "Lompat kaki ke belakang ke posisi plank.",
+      "Lompat kaki kembali ke arah tangan.",
+      "Lompat ke atas dengan tangan diangkat."
+    ],
+    "tips": [
+      "Versi mudah: langkah kaki ke belakang satu demi satu dan tanpa lompatan."
+    ]
+  },
+  {
+    "id": "mountain-climber",
+    "name": "Mountain Climber",
+    "emoji": "⛰️",
+    "category": "HIIT",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Perut",
+      "Bahu",
+      "Kaki"
+    ],
+    "description": "Seperti memanjat gunung dalam posisi plank — melatih perut dan jantung.",
+    "steps": [
+      "Mula dalam posisi plank dengan tangan di bawah bahu.",
+      "Bawa lutut kanan ke arah dada.",
+      "Tukar kaki dengan pantas.",
+      "Kekalkan pinggul rendah dan sebaris dengan badan."
+    ],
+    "tips": [
+      "Buat perlahan dahulu untuk menguasai teknik sebelum laju."
+    ]
+  },
+  {
+    "id": "squat-lompat",
+    "name": "Squat Lompat",
+    "emoji": "🦘",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 10–12 ulangan",
+    "muscles": [
+      "Punggung",
+      "Paha",
+      "Betis"
+    ],
+    "description": "Squat dengan lompatan eksplosif untuk membina kuasa kaki.",
+    "steps": [
+      "Berdiri dengan kaki selebar bahu.",
+      "Turun ke posisi squat.",
+      "Lompat ke atas sekuat mungkin.",
+      "Mendarat lembut dengan lutut bengkok dan terus ke squat seterusnya."
+    ],
+    "tips": [
+      "Pastikan lutut tidak jatuh ke dalam ketika mendarat."
+    ]
+  },
+  {
+    "id": "plank-jack",
+    "name": "Plank Jack",
+    "emoji": "🤸‍♀️",
+    "category": "HIIT",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Perut",
+      "Bahu",
+      "Paha luar"
+    ],
+    "description": "Jumping jack dalam posisi plank.",
+    "steps": [
+      "Mula dalam posisi plank tangan lurus.",
+      "Lompat kaki terbuka luas.",
+      "Lompat kaki rapat semula.",
+      "Kekalkan pinggul stabil dan tidak melantun."
+    ],
+    "tips": [
+      "Versi mudah: langkah kaki keluar-masuk satu demi satu."
+    ]
+  },
+  {
+    "id": "lunge-lompat",
+    "name": "Lunge Lompat",
+    "emoji": "⚡",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 8 setiap kaki",
+    "muscles": [
+      "Punggung",
+      "Paha"
+    ],
+    "description": "Lunge dengan lompatan menukar kaki di udara.",
+    "steps": [
+      "Mula dalam posisi lunge, kaki kanan di hadapan.",
+      "Lompat ke atas dan tukar kedudukan kaki di udara.",
+      "Mendarat dalam lunge dengan kaki kiri di hadapan.",
+      "Ulang secara berterusan."
+    ],
+    "tips": [
+      "Elakkan jika ada masalah lutut — gantikan dengan lunge biasa."
+    ]
+  },
+  {
+    "id": "tuck-jump",
+    "name": "Tuck Jump",
+    "emoji": "🦘",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "3 set × 8 ulangan",
+    "muscles": [
+      "Kaki",
+      "Perut"
+    ],
+    "description": "Lompat tinggi sambil membawa lutut ke dada.",
+    "steps": [
+      "Berdiri dengan kaki selebar pinggul.",
+      "Lompat setinggi mungkin.",
+      "Bawa kedua-dua lutut ke arah dada.",
+      "Mendarat lembut dan ulang."
+    ],
+    "tips": [
+      "Mendarat di permukaan yang tidak licin."
+    ]
+  },
+  {
+    "id": "tabata-asas",
+    "name": "Tabata 4 Minit",
+    "emoji": "⏱️",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "8 pusingan: 20 saat kerja, 10 saat rehat",
+    "muscles": [
+      "Seluruh badan"
+    ],
+    "description": "Protokol HIIT 4 minit — pilih satu senaman dan lakukan sekuat mungkin.",
+    "steps": [
+      "Pilih satu gerakan: squat, jumping jack atau mountain climber.",
+      "Lakukan sepantas mungkin selama 20 saat.",
+      "Rehat 10 saat.",
+      "Ulang 8 pusingan (jumlah 4 minit)."
+    ],
+    "tips": [
+      "Gabungkan 2–4 blok Tabata dengan rehat 1 minit untuk sesi 15 minit."
+    ]
+  },
+  {
+    "id": "sprint-setempat",
+    "name": "Pecut Setempat",
+    "emoji": "🏃‍♀️",
+    "category": "HIIT",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 84,
+    "dose": "6 set × 20 saat",
+    "muscles": [
+      "Kaki",
+      "Jantung"
+    ],
+    "description": "Berlari setempat sepantas mungkin dalam masa yang singkat.",
+    "steps": [
+      "Condongkan badan sedikit ke hadapan.",
+      "Hayun tangan dengan kuat dan larikan kaki sepantas mungkin.",
+      "Lakukan selama 20 saat.",
+      "Rehat 40 saat dengan berjalan setempat."
+    ],
+    "tips": [
+      "Panaskan badan sekurang-kurangnya 5 minit sebelum memecut."
+    ]
+  },
+  {
+    "id": "squat",
+    "name": "Squat",
+    "emoji": "🍑",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 15 ulangan",
+    "muscles": [
+      "Punggung",
+      "Paha",
+      "Hamstring"
+    ],
+    "description": "Senaman asas paling penting untuk menguatkan kaki dan membentuk punggung.",
+    "steps": [
+      "Berdiri dengan kaki selebar bahu, hujung kaki sedikit ke luar.",
+      "Tolak punggung ke belakang seperti mahu duduk di kerusi.",
+      "Turun sehingga paha selari dengan lantai.",
+      "Tekan tumit untuk berdiri semula."
+    ],
+    "tips": [
+      "Pastikan lutut mengikut arah hujung kaki.",
+      "Guna kerusi di belakang sebagai panduan untuk pemula."
+    ]
+  },
+  {
+    "id": "lunge-hadapan",
+    "name": "Lunge Hadapan",
+    "emoji": "🦵",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 10 setiap kaki",
+    "muscles": [
+      "Paha",
+      "Punggung"
+    ],
+    "description": "Melatih setiap kaki secara berasingan dan meningkatkan keseimbangan.",
+    "steps": [
+      "Berdiri tegak, tangan di pinggang.",
+      "Langkah besar ke hadapan dengan kaki kanan.",
+      "Turunkan badan sehingga kedua-dua lutut bengkok 90°.",
+      "Tolak kaki hadapan untuk kembali berdiri. Tukar kaki."
+    ],
+    "tips": [
+      "Lutut hadapan tidak melepasi hujung jari kaki."
+    ]
+  },
+  {
+    "id": "lunge-belakang",
+    "name": "Lunge Belakang",
+    "emoji": "🦵",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 10 setiap kaki",
+    "muscles": [
+      "Punggung",
+      "Paha"
+    ],
+    "description": "Versi lunge yang lebih mesra lutut.",
+    "steps": [
+      "Berdiri tegak.",
+      "Langkah kaki kanan ke belakang.",
+      "Turunkan lutut belakang hampir menyentuh lantai.",
+      "Kembali berdiri dan tukar kaki."
+    ],
+    "tips": [
+      "Pilihan yang baik jika lunge hadapan terasa sakit pada lutut."
+    ]
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "emoji": "🌉",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 15 ulangan",
+    "muscles": [
+      "Punggung",
+      "Hamstring",
+      "Bawah belakang"
+    ],
+    "description": "Senaman terbaik untuk mengaktifkan otot punggung sambil berbaring.",
+    "steps": [
+      "Baring terlentang, lutut bengkok dan tapak kaki rata di lantai.",
+      "Ketatkan perut dan punggung.",
+      "Angkat pinggul sehingga badan lurus dari bahu ke lutut.",
+      "Tahan 2 saat, kemudian turun perlahan."
+    ],
+    "tips": [
+      "Tekan melalui tumit, bukan hujung kaki."
+    ]
+  },
+  {
+    "id": "sumo-squat",
+    "name": "Sumo Squat",
+    "emoji": "🍑",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 15 ulangan",
+    "muscles": [
+      "Paha dalam",
+      "Punggung"
+    ],
+    "description": "Squat dengan kaki terbuka luas untuk memfokuskan paha dalam.",
+    "steps": [
+      "Buka kaki lebih luas daripada bahu, hujung kaki ke luar 45°.",
+      "Turun lurus ke bawah dengan badan tegak.",
+      "Tolak lutut ke arah luar.",
+      "Tekan tumit untuk naik semula."
+    ],
+    "tips": [
+      "Pegang dumbbell atau botol air di tengah untuk tambah cabaran."
+    ]
+  },
+  {
+    "id": "donkey-kick",
+    "name": "Tendangan Keldai (Donkey Kick)",
+    "emoji": "🫏",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 15 setiap kaki",
+    "muscles": [
+      "Punggung"
+    ],
+    "description": "Mengasingkan otot punggung untuk membentuk dan mengangkatnya.",
+    "steps": [
+      "Mula merangkak: tangan di bawah bahu, lutut di bawah pinggul.",
+      "Angkat kaki kanan ke atas dengan lutut kekal bengkok 90°.",
+      "Tekan tapak kaki ke arah siling.",
+      "Turun perlahan dan ulang. Tukar kaki."
+    ],
+    "tips": [
+      "Jangan lengkungkan bahagian bawah belakang."
+    ]
+  },
+  {
+    "id": "fire-hydrant",
+    "name": "Fire Hydrant",
+    "emoji": "🐕",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 15 setiap kaki",
+    "muscles": [
+      "Punggung sisi",
+      "Pinggul"
+    ],
+    "description": "Menguatkan otot sisi punggung untuk pinggul yang stabil.",
+    "steps": [
+      "Mula merangkak.",
+      "Angkat lutut kanan ke sisi dengan lutut kekal bengkok.",
+      "Angkat sehingga paha selari dengan lantai.",
+      "Turun perlahan dan ulang. Tukar kaki."
+    ],
+    "tips": [
+      "Pastikan pinggul tidak senget ke satu sisi."
+    ]
+  },
+  {
+    "id": "wall-sit",
+    "name": "Duduk Dinding (Wall Sit)",
+    "emoji": "🧱",
+    "category": "Kaki & Punggung",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 42,
+    "dose": "3 set × 30–45 saat",
+    "muscles": [
+      "Paha",
+      "Punggung"
+    ],
+    "description": "Senaman statik yang membina ketahanan otot paha.",
+    "steps": [
+      "Sandarkan belakang ke dinding.",
+      "Gelongsor ke bawah sehingga lutut bengkok 90°.",
+      "Pastikan lutut berada tepat di atas buku lali.",
+      "Tahan posisi sambil bernafas seperti biasa."
+    ],
+    "tips": [
+      "Tambah 5 saat setiap minggu untuk meningkatkan ketahanan."
+    ]
+  },
+  {
+    "id": "angkat-tumit",
+    "name": "Angkat Tumit (Calf Raise)",
+    "emoji": "🦶",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 20 ulangan",
+    "muscles": [
+      "Betis"
+    ],
+    "description": "Menguatkan otot betis dan buku lali.",
+    "steps": [
+      "Berdiri tegak, pegang dinding atau kerusi untuk keseimbangan.",
+      "Angkat tumit setinggi mungkin.",
+      "Tahan 1 saat di atas.",
+      "Turun perlahan."
+    ],
+    "tips": [
+      "Buat di atas anak tangga untuk julat gerakan yang lebih besar."
+    ]
+  },
+  {
+    "id": "step-up",
+    "name": "Step Up",
+    "emoji": "🪑",
+    "category": "Kaki & Punggung",
+    "level": "Sederhana",
+    "equipment": "Bangku atau kerusi kukuh",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 10 setiap kaki",
+    "muscles": [
+      "Punggung",
+      "Paha"
+    ],
+    "description": "Melangkah naik ke atas bangku — gerakan berguna untuk kehidupan harian.",
+    "steps": [
+      "Berdiri di hadapan bangku yang kukuh.",
+      "Letakkan seluruh tapak kaki kanan di atas bangku.",
+      "Tekan tumit untuk naik dan berdiri tegak.",
+      "Turun perlahan dan ulang. Tukar kaki."
+    ],
+    "tips": [
+      "Pastikan kerusi tidak beroda dan tidak mudah tergelincir."
+    ]
+  },
+  {
+    "id": "lunge-sisi",
+    "name": "Lunge Sisi",
+    "emoji": "↔️",
+    "category": "Kaki & Punggung",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 10 setiap kaki",
+    "muscles": [
+      "Paha dalam",
+      "Punggung"
+    ],
+    "description": "Melatih otot kaki dari arah sisi yang jarang digunakan.",
+    "steps": [
+      "Berdiri dengan kaki rapat.",
+      "Langkah besar ke kanan.",
+      "Bengkokkan lutut kanan dan tolak punggung ke belakang; kaki kiri kekal lurus.",
+      "Tolak untuk kembali ke tengah. Tukar sisi."
+    ],
+    "tips": [
+      "Kekalkan dada terbuka dan belakang lurus."
+    ]
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Bulgarian Split Squat",
+    "emoji": "🏋️‍♀️",
+    "category": "Kaki & Punggung",
+    "level": "Sukar",
+    "equipment": "Bangku atau kerusi",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 8 setiap kaki",
+    "muscles": [
+      "Punggung",
+      "Paha"
+    ],
+    "description": "Squat satu kaki yang sangat mencabar dengan kaki belakang di atas bangku.",
+    "steps": [
+      "Berdiri membelakangi bangku, letakkan kaki kiri di atasnya.",
+      "Langkah kaki kanan ke hadapan secukupnya.",
+      "Turunkan badan sehingga paha kanan selari dengan lantai.",
+      "Tekan tumit kanan untuk naik. Tukar kaki."
+    ],
+    "tips": [
+      "Mulakan tanpa beban sehingga anda stabil."
+    ]
+  },
+  {
+    "id": "clamshell",
+    "name": "Clamshell",
+    "emoji": "🐚",
+    "category": "Kaki & Punggung",
+    "level": "Mudah",
+    "equipment": "Tikar (band pilihan)",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 15 setiap sisi",
+    "muscles": [
+      "Punggung sisi",
+      "Pinggul"
+    ],
+    "description": "Gerakan kecil membuka lutut seperti kerang — menguatkan pinggul.",
+    "steps": [
+      "Baring mengiring dengan lutut bengkok dan kaki bertindih.",
+      "Rapatkan tumit.",
+      "Angkat lutut atas setinggi mungkin tanpa memutar pinggul.",
+      "Turun perlahan. Tukar sisi."
+    ],
+    "tips": [
+      "Ikat resistance band di atas lutut untuk tambah cabaran."
+    ]
+  },
+  {
+    "id": "romanian-deadlift",
+    "name": "Romanian Deadlift",
+    "emoji": "🏋️‍♀️",
+    "category": "Kaki & Punggung",
+    "level": "Sederhana",
+    "equipment": "Dumbbell",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Hamstring",
+      "Punggung",
+      "Bawah belakang"
+    ],
+    "description": "Melatih bahagian belakang kaki dan punggung dengan teknik engsel pinggul.",
+    "steps": [
+      "Berdiri sambil memegang dumbbell di hadapan paha.",
+      "Lutut sedikit bengkok, tolak pinggul ke belakang.",
+      "Turunkan dumbbell sepanjang kaki sehingga terasa regangan di hamstring.",
+      "Ketatkan punggung untuk kembali berdiri."
+    ],
+    "tips": [
+      "Kekalkan belakang lurus sepanjang masa — jangan bongkok."
+    ]
+  },
+  {
+    "id": "tekan-tubi-dinding",
+    "name": "Tekan Tubi Dinding",
+    "emoji": "🧱",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 15 ulangan",
+    "muscles": [
+      "Dada",
+      "Lengan",
+      "Bahu"
+    ],
+    "description": "Langkah pertama sebelum tekan tubi di lantai — sesuai untuk pemula.",
+    "steps": [
+      "Berdiri selangkah dari dinding, tangan di dinding selebar bahu.",
+      "Bengkokkan siku dan dekatkan dada ke dinding.",
+      "Tolak semula sehingga lengan lurus.",
+      "Kekalkan badan lurus seperti papan."
+    ],
+    "tips": [
+      "Berdiri lebih jauh dari dinding untuk lebih mencabar."
+    ]
+  },
+  {
+    "id": "tekan-tubi-lutut",
+    "name": "Tekan Tubi Lutut",
+    "emoji": "💪",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 10 ulangan",
+    "muscles": [
+      "Dada",
+      "Trisep",
+      "Bahu"
+    ],
+    "description": "Tekan tubi dengan lutut di lantai untuk membina kekuatan secara beransur.",
+    "steps": [
+      "Mula dengan tangan di lantai selebar bahu dan lutut di atas tikar.",
+      "Pastikan badan lurus dari kepala ke lutut.",
+      "Turunkan dada ke arah lantai.",
+      "Tolak semula ke atas."
+    ],
+    "tips": [
+      "Siku menghala 45° dari badan, bukan terbuka luas."
+    ]
+  },
+  {
+    "id": "tekan-tubi",
+    "name": "Tekan Tubi Penuh",
+    "emoji": "💪",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Sukar",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 6–10 ulangan",
+    "muscles": [
+      "Dada",
+      "Trisep",
+      "Bahu",
+      "Perut"
+    ],
+    "description": "Tekan tubi standard yang melatih dada, lengan dan teras sekali gus.",
+    "steps": [
+      "Mula dalam posisi plank tangan lurus.",
+      "Ketatkan perut dan punggung.",
+      "Turunkan badan sehingga dada hampir menyentuh lantai.",
+      "Tolak semula ke atas dengan badan kekal lurus."
+    ],
+    "tips": [
+      "Kualiti lebih penting daripada bilangan ulangan."
+    ]
+  },
+  {
+    "id": "tricep-dip",
+    "name": "Tricep Dip Kerusi",
+    "emoji": "🪑",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Sederhana",
+    "equipment": "Kerusi kukuh",
+    "caloriesPer10Min": 52,
+    "dose": "3 set × 10–12 ulangan",
+    "muscles": [
+      "Trisep",
+      "Bahu"
+    ],
+    "description": "Menguatkan bahagian belakang lengan (trisep) menggunakan kerusi.",
+    "steps": [
+      "Duduk di tepi kerusi, tangan di sisi punggung memegang tepi kerusi.",
+      "Gerakkan punggung ke hadapan keluar dari kerusi.",
+      "Bengkokkan siku 90° untuk turunkan badan.",
+      "Tolak semula ke atas."
+    ],
+    "tips": [
+      "Bengkokkan lutut untuk versi lebih mudah."
+    ]
+  },
+  {
+    "id": "bicep-curl",
+    "name": "Bicep Curl",
+    "emoji": "💪",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Dumbbell atau botol air",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Bisep"
+    ],
+    "description": "Senaman asas untuk lengan yang kuat dan tegang.",
+    "steps": [
+      "Berdiri sambil memegang dumbbell, tapak tangan menghadap ke hadapan.",
+      "Kekalkan siku rapat ke sisi badan.",
+      "Angkat dumbbell ke arah bahu.",
+      "Turunkan perlahan-lahan."
+    ],
+    "tips": [
+      "Botol air 1.5 liter ≈ 1.5 kg — alternatif yang baik."
+    ]
+  },
+  {
+    "id": "tekan-bahu",
+    "name": "Tekan Bahu (Shoulder Press)",
+    "emoji": "🙆‍♀️",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Dumbbell atau botol air",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Bahu",
+      "Trisep"
+    ],
+    "description": "Menguatkan bahu untuk postur yang lebih baik.",
+    "steps": [
+      "Pegang dumbbell di paras bahu, tapak tangan menghadap ke hadapan.",
+      "Ketatkan perut.",
+      "Tolak dumbbell lurus ke atas kepala.",
+      "Turunkan semula ke paras bahu dengan perlahan."
+    ],
+    "tips": [
+      "Boleh dilakukan sambil duduk untuk menyokong belakang."
+    ]
+  },
+  {
+    "id": "bent-over-row",
+    "name": "Bent-Over Row",
+    "emoji": "🚣‍♀️",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Sederhana",
+    "equipment": "Dumbbell atau botol air",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Belakang",
+      "Bisep"
+    ],
+    "description": "Menguatkan otot belakang untuk mengelakkan bahu bongkok.",
+    "steps": [
+      "Pegang dumbbell, bengkokkan badan ke hadapan kira-kira 45° dengan belakang lurus.",
+      "Biarkan tangan tergantung lurus ke bawah.",
+      "Tarik dumbbell ke arah pinggang sambil merapatkan bilah bahu.",
+      "Turunkan perlahan."
+    ],
+    "tips": [
+      "Bayangkan anda menyepit pensel di antara bilah bahu."
+    ]
+  },
+  {
+    "id": "lateral-raise",
+    "name": "Lateral Raise",
+    "emoji": "🕊️",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Dumbbell atau botol air",
+    "caloriesPer10Min": 37,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Bahu"
+    ],
+    "description": "Membentuk otot sisi bahu.",
+    "steps": [
+      "Berdiri sambil memegang dumbbell di sisi badan.",
+      "Siku sedikit bengkok.",
+      "Angkat tangan ke sisi sehingga paras bahu.",
+      "Turunkan perlahan-lahan."
+    ],
+    "tips": [
+      "Gunakan beban ringan — senaman ini tidak memerlukan beban berat."
+    ]
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "emoji": "🦸‍♀️",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Bawah belakang",
+      "Punggung"
+    ],
+    "description": "Menguatkan otot belakang sambil meniarap.",
+    "steps": [
+      "Meniarap dengan tangan lurus di hadapan kepala.",
+      "Angkat tangan, dada dan kaki serentak dari lantai.",
+      "Tahan 2–3 saat.",
+      "Turun perlahan."
+    ],
+    "tips": [
+      "Pandang ke lantai untuk mengelakkan tekanan pada leher."
+    ]
+  },
+  {
+    "id": "bulatan-lengan",
+    "name": "Bulatan Lengan",
+    "emoji": "🔄",
+    "category": "Lengan & Bahagian Atas",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 29,
+    "dose": "2 set × 30 saat setiap arah",
+    "muscles": [
+      "Bahu"
+    ],
+    "description": "Gerakan ringkas untuk memanaskan dan menguatkan bahu.",
+    "steps": [
+      "Berdiri dan depangkan tangan ke sisi selari bahu.",
+      "Buat bulatan kecil ke hadapan.",
+      "Besarkan bulatan secara beransur.",
+      "Tukar arah ke belakang."
+    ],
+    "tips": [
+      "Sesuai sebagai pemanasan sebelum senaman bahagian atas."
+    ]
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "emoji": "🧘‍♀️",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 20–45 saat",
+    "muscles": [
+      "Perut",
+      "Bahu",
+      "Punggung"
+    ],
+    "description": "Senaman teras paling asas untuk perut yang kuat dan postur yang baik.",
+    "steps": [
+      "Letakkan lengan bawah di lantai, siku di bawah bahu.",
+      "Luruskan kaki ke belakang dan angkat badan.",
+      "Pastikan badan lurus dari kepala ke tumit.",
+      "Tahan sambil bernafas biasa."
+    ],
+    "tips": [
+      "Versi mudah: letakkan lutut di lantai.",
+      "Jangan biarkan pinggul jatuh atau terlalu tinggi."
+    ]
+  },
+  {
+    "id": "plank-sisi",
+    "name": "Plank Sisi",
+    "emoji": "📐",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 20 saat setiap sisi",
+    "muscles": [
+      "Otot pinggang (oblique)",
+      "Bahu"
+    ],
+    "description": "Menguatkan otot sisi perut untuk pinggang yang lebih ramping.",
+    "steps": [
+      "Baring mengiring, siku di bawah bahu.",
+      "Susun kaki bertindih.",
+      "Angkat pinggul sehingga badan lurus.",
+      "Tahan, kemudian tukar sisi."
+    ],
+    "tips": [
+      "Bengkokkan lutut bawah untuk versi lebih mudah."
+    ]
+  },
+  {
+    "id": "crunch",
+    "name": "Crunch",
+    "emoji": "🌀",
+    "category": "Perut & Teras",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 15 ulangan",
+    "muscles": [
+      "Perut atas"
+    ],
+    "description": "Senaman perut klasik untuk melatih otot perut atas.",
+    "steps": [
+      "Baring terlentang, lutut bengkok, tapak kaki di lantai.",
+      "Letakkan tangan di sisi kepala tanpa menarik leher.",
+      "Angkat bahu dari lantai dengan mengetatkan perut.",
+      "Turun perlahan."
+    ],
+    "tips": [
+      "Hembus nafas semasa naik."
+    ]
+  },
+  {
+    "id": "bicycle-crunch",
+    "name": "Bicycle Crunch",
+    "emoji": "🚲",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 20 ulangan",
+    "muscles": [
+      "Perut",
+      "Oblique"
+    ],
+    "description": "Gerakan berbasikal sambil berbaring — melatih perut depan dan sisi.",
+    "steps": [
+      "Baring terlentang, tangan di sisi kepala, kaki diangkat.",
+      "Bawa siku kanan ke arah lutut kiri sambil meluruskan kaki kanan.",
+      "Tukar sisi seperti mengayuh basikal.",
+      "Kekalkan bahagian bawah belakang rapat ke lantai."
+    ],
+    "tips": [
+      "Gerakan perlahan dan terkawal lebih berkesan daripada laju."
+    ]
+  },
+  {
+    "id": "dead-bug",
+    "name": "Dead Bug",
+    "emoji": "🐞",
+    "category": "Perut & Teras",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 10 setiap sisi",
+    "muscles": [
+      "Perut dalam"
+    ],
+    "description": "Senaman teras yang selamat untuk belakang, sesuai untuk pemula dan selepas bersalin (dengan nasihat doktor).",
+    "steps": [
+      "Baring terlentang, tangan lurus ke siling, lutut 90° di udara.",
+      "Rapatkan bahagian bawah belakang ke lantai.",
+      "Luruskan tangan kanan ke belakang dan kaki kiri ke hadapan serentak.",
+      "Kembali dan tukar sisi."
+    ],
+    "tips": [
+      "Jika belakang terangkat, kurangkan julat gerakan."
+    ]
+  },
+  {
+    "id": "bird-dog",
+    "name": "Bird Dog",
+    "emoji": "🐦",
+    "category": "Perut & Teras",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 10 setiap sisi",
+    "muscles": [
+      "Perut",
+      "Bawah belakang",
+      "Punggung"
+    ],
+    "description": "Melatih keseimbangan dan kestabilan tulang belakang.",
+    "steps": [
+      "Mula merangkak.",
+      "Luruskan tangan kanan ke hadapan dan kaki kiri ke belakang.",
+      "Tahan 2 saat dengan badan stabil.",
+      "Kembali dan tukar sisi."
+    ],
+    "tips": [
+      "Bayangkan ada segelas air di atas belakang anda — jangan tumpahkan!"
+    ]
+  },
+  {
+    "id": "angkat-kaki",
+    "name": "Angkat Kaki (Leg Raise)",
+    "emoji": "🦵",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Perut bawah"
+    ],
+    "description": "Memfokuskan otot perut bahagian bawah.",
+    "steps": [
+      "Baring terlentang, tangan di bawah punggung.",
+      "Rapatkan kaki dan luruskan.",
+      "Angkat kaki sehingga 90°.",
+      "Turunkan perlahan tanpa menyentuh lantai."
+    ],
+    "tips": [
+      "Bengkokkan lutut jika terasa tekanan pada belakang."
+    ]
+  },
+  {
+    "id": "russian-twist",
+    "name": "Russian Twist",
+    "emoji": "🔃",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 20 ulangan",
+    "muscles": [
+      "Oblique",
+      "Perut"
+    ],
+    "description": "Memutar badan ke kiri dan kanan untuk melatih pinggang.",
+    "steps": [
+      "Duduk dengan lutut bengkok dan condongkan badan sedikit ke belakang.",
+      "Rapatkan tangan di hadapan dada.",
+      "Putar badan ke kanan, kemudian ke kiri.",
+      "Angkat kaki dari lantai untuk lebih mencabar."
+    ],
+    "tips": [
+      "Putar dari bahagian dada, bukan hanya tangan."
+    ]
+  },
+  {
+    "id": "flutter-kick",
+    "name": "Flutter Kick",
+    "emoji": "🏊‍♀️",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 30 saat",
+    "muscles": [
+      "Perut bawah",
+      "Paha"
+    ],
+    "description": "Menendang kaki kecil-kecil seperti berenang sambil berbaring.",
+    "steps": [
+      "Baring terlentang, tangan di bawah punggung.",
+      "Angkat kaki kira-kira 15 cm dari lantai.",
+      "Gerakkan kaki atas-bawah bergilir dengan pantas.",
+      "Kekalkan bawah belakang rapat ke lantai."
+    ],
+    "tips": [
+      "Angkat kaki lebih tinggi untuk versi lebih mudah."
+    ]
+  },
+  {
+    "id": "sentuh-tumit",
+    "name": "Sentuh Tumit",
+    "emoji": "👆",
+    "category": "Perut & Teras",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 32,
+    "dose": "3 set × 20 ulangan",
+    "muscles": [
+      "Oblique"
+    ],
+    "description": "Senaman pinggang yang mudah dan lembut pada leher.",
+    "steps": [
+      "Baring terlentang, lutut bengkok, tapak kaki di lantai.",
+      "Angkat sedikit bahu dari lantai.",
+      "Capai tumit kanan dengan tangan kanan.",
+      "Tukar ke kiri secara bergilir."
+    ],
+    "tips": [
+      "Kekalkan bahu terangkat sepanjang set."
+    ]
+  },
+  {
+    "id": "plank-shoulder-tap",
+    "name": "Plank Sentuh Bahu",
+    "emoji": "🤚",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 42,
+    "dose": "3 set × 20 ulangan",
+    "muscles": [
+      "Perut",
+      "Bahu"
+    ],
+    "description": "Plank tangan lurus sambil menyentuh bahu bertentangan.",
+    "steps": [
+      "Mula dalam posisi plank tangan lurus, kaki dibuka sedikit.",
+      "Angkat tangan kanan dan sentuh bahu kiri.",
+      "Kembali dan ulang dengan tangan kiri.",
+      "Elakkan pinggul bergoyang."
+    ],
+    "tips": [
+      "Buka kaki lebih luas untuk kestabilan yang lebih baik."
+    ]
+  },
+  {
+    "id": "reverse-crunch",
+    "name": "Reverse Crunch",
+    "emoji": "🔁",
+    "category": "Perut & Teras",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 40,
+    "dose": "3 set × 12 ulangan",
+    "muscles": [
+      "Perut bawah"
+    ],
+    "description": "Menggulung pinggul ke arah dada untuk melatih perut bawah.",
+    "steps": [
+      "Baring terlentang, lutut bengkok 90° di udara.",
+      "Letakkan tangan di sisi badan.",
+      "Ketatkan perut dan gulung pinggul ke arah dada.",
+      "Turun perlahan ke posisi asal."
+    ],
+    "tips": [
+      "Gunakan perut, bukan momentum kaki."
+    ]
+  },
+  {
+    "id": "pose-kanak-kanak",
+    "name": "Pose Kanak-kanak (Child's Pose)",
+    "emoji": "🧘‍♀️",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 24,
+    "dose": "30–60 saat",
+    "muscles": [
+      "Belakang",
+      "Pinggul"
+    ],
+    "description": "Pose rehat yang menenangkan dan meregangkan belakang.",
+    "steps": [
+      "Melutut di atas tikar, ibu jari kaki bersentuhan.",
+      "Duduk di atas tumit.",
+      "Bongkokkan badan ke hadapan dan luruskan tangan di lantai.",
+      "Letakkan dahi di lantai dan bernafas perlahan."
+    ],
+    "tips": [
+      "Buka lutut lebih luas jika perut terasa tertekan."
+    ]
+  },
+  {
+    "id": "kucing-lembu",
+    "name": "Kucing-Lembu (Cat-Cow)",
+    "emoji": "🐈",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 26,
+    "dose": "10 pusingan",
+    "muscles": [
+      "Tulang belakang",
+      "Leher"
+    ],
+    "description": "Melenturkan tulang belakang — bagus untuk sakit belakang ringan.",
+    "steps": [
+      "Mula merangkak.",
+      "Tarik nafas: lengkungkan belakang ke bawah dan pandang ke atas (lembu).",
+      "Hembus nafas: bulatkan belakang ke atas dan tunduk (kucing).",
+      "Ulang mengikut rentak nafas."
+    ],
+    "tips": [
+      "Bagus dilakukan setiap pagi selepas bangun tidur."
+    ]
+  },
+  {
+    "id": "downward-dog",
+    "name": "Downward Dog",
+    "emoji": "🐕",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 26,
+    "dose": "30–60 saat",
+    "muscles": [
+      "Hamstring",
+      "Betis",
+      "Bahu"
+    ],
+    "description": "Pose yoga klasik yang meregangkan seluruh bahagian belakang badan.",
+    "steps": [
+      "Mula merangkak.",
+      "Angkat pinggul ke atas membentuk huruf V terbalik.",
+      "Tekan tapak tangan ke lantai dan tolak tumit ke bawah.",
+      "Biarkan kepala santai di antara lengan."
+    ],
+    "tips": [
+      "Bengkokkan lutut sedikit jika hamstring terasa ketat."
+    ]
+  },
+  {
+    "id": "pose-cobra",
+    "name": "Pose Ular Tedung (Cobra)",
+    "emoji": "🐍",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 26,
+    "dose": "3 × 20 saat",
+    "muscles": [
+      "Perut",
+      "Dada",
+      "Belakang"
+    ],
+    "description": "Membuka dada dan meregangkan perut.",
+    "steps": [
+      "Meniarap, tangan di bawah bahu.",
+      "Tekan tangan dan angkat dada perlahan-lahan.",
+      "Kekalkan pinggul di lantai dan bahu jauh dari telinga.",
+      "Tahan dan bernafas, kemudian turun."
+    ],
+    "tips": [
+      "Jangan paksa — angkat hanya setakat yang selesa."
+    ]
+  },
+  {
+    "id": "warrior-2",
+    "name": "Pose Pahlawan II (Warrior II)",
+    "emoji": "⚔️",
+    "category": "Yoga & Regangan",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 32,
+    "dose": "30 saat setiap sisi",
+    "muscles": [
+      "Paha",
+      "Punggung",
+      "Bahu"
+    ],
+    "description": "Pose berdiri yang menguatkan kaki dan meningkatkan tumpuan.",
+    "steps": [
+      "Buka kaki luas, hujung kaki kanan ke hadapan, kaki kiri melintang.",
+      "Bengkokkan lutut kanan 90°.",
+      "Depangkan tangan selari dengan lantai.",
+      "Pandang ke hujung jari tangan kanan. Tukar sisi."
+    ],
+    "tips": [
+      "Pastikan lutut hadapan berada di atas buku lali."
+    ]
+  },
+  {
+    "id": "pose-pokok",
+    "name": "Pose Pokok (Tree Pose)",
+    "emoji": "🌳",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 26,
+    "dose": "30 saat setiap kaki",
+    "muscles": [
+      "Keseimbangan",
+      "Kaki",
+      "Teras"
+    ],
+    "description": "Melatih keseimbangan dan ketenangan minda.",
+    "steps": [
+      "Berdiri di atas kaki kiri.",
+      "Letakkan tapak kaki kanan di betis atau paha dalam kiri (bukan di lutut).",
+      "Rapatkan tangan di hadapan dada atau angkat ke atas.",
+      "Fokus pada satu titik di hadapan. Tukar kaki."
+    ],
+    "tips": [
+      "Berdiri berhampiran dinding untuk sokongan."
+    ]
+  },
+  {
+    "id": "regangan-hamstring",
+    "name": "Regangan Hamstring",
+    "emoji": "🙇‍♀️",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 24,
+    "dose": "30 saat setiap kaki",
+    "muscles": [
+      "Hamstring",
+      "Bawah belakang"
+    ],
+    "description": "Meregangkan bahagian belakang paha yang ketat akibat duduk lama.",
+    "steps": [
+      "Duduk dengan kaki kanan lurus dan kaki kiri bengkok.",
+      "Tarik nafas dan tegakkan belakang.",
+      "Hembus nafas dan condong ke hadapan ke arah kaki kanan.",
+      "Tahan tanpa melantun. Tukar kaki."
+    ],
+    "tips": [
+      "Gunakan tuala di keliling tapak kaki jika tidak dapat mencapainya."
+    ]
+  },
+  {
+    "id": "regangan-paha-depan",
+    "name": "Regangan Paha Depan",
+    "emoji": "🦩",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 24,
+    "dose": "30 saat setiap kaki",
+    "muscles": [
+      "Paha depan",
+      "Pinggul"
+    ],
+    "description": "Regangan wajib selepas berjalan, berlari atau squat.",
+    "steps": [
+      "Berdiri tegak, pegang dinding untuk keseimbangan.",
+      "Bengkokkan lutut kanan dan pegang buku lali kanan.",
+      "Tarik tumit ke arah punggung.",
+      "Kekalkan lutut rapat. Tukar kaki."
+    ],
+    "tips": [
+      "Ketatkan punggung untuk regangan yang lebih dalam."
+    ]
+  },
+  {
+    "id": "pose-merpati",
+    "name": "Pose Merpati (Pigeon)",
+    "emoji": "🕊️",
+    "category": "Yoga & Regangan",
+    "level": "Sederhana",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 26,
+    "dose": "45 saat setiap sisi",
+    "muscles": [
+      "Pinggul",
+      "Punggung"
+    ],
+    "description": "Membuka pinggul yang ketat — melegakan sakit belakang bawah.",
+    "steps": [
+      "Dari posisi merangkak, bawa lutut kanan ke belakang tangan kanan.",
+      "Letakkan buku lali kanan ke arah tangan kiri.",
+      "Luruskan kaki kiri ke belakang.",
+      "Turunkan badan ke hadapan dan bernafas. Tukar sisi."
+    ],
+    "tips": [
+      "Letakkan bantal di bawah punggung jika pinggul tidak sampai ke lantai."
+    ]
+  },
+  {
+    "id": "pernafasan-dalam",
+    "name": "Pernafasan Dalam",
+    "emoji": "🌬️",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 14,
+    "dose": "5 minit",
+    "muscles": [
+      "Diafragma",
+      "Minda"
+    ],
+    "description": "Teknik pernafasan untuk mengurangkan tekanan dan keinginan makan akibat stres.",
+    "steps": [
+      "Duduk atau baring dengan selesa.",
+      "Letakkan satu tangan di dada dan satu di perut.",
+      "Tarik nafas melalui hidung selama 4 saat — perut mengembang.",
+      "Hembus perlahan melalui mulut selama 6 saat."
+    ],
+    "tips": [
+      "Amalkan sebelum tidur untuk tidur yang lebih nyenyak."
+    ]
+  },
+  {
+    "id": "regangan-kupu-kupu",
+    "name": "Regangan Kupu-kupu",
+    "emoji": "🦋",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 24,
+    "dose": "30–60 saat",
+    "muscles": [
+      "Paha dalam",
+      "Pinggul"
+    ],
+    "description": "Meregangkan paha dalam dan membuka pinggul.",
+    "steps": [
+      "Duduk dan rapatkan kedua-dua tapak kaki.",
+      "Pegang hujung kaki dengan tangan.",
+      "Biarkan lutut jatuh ke sisi.",
+      "Condong sedikit ke hadapan dengan belakang lurus."
+    ],
+    "tips": [
+      "Jangan tekan lutut ke bawah dengan paksa."
+    ]
+  },
+  {
+    "id": "putaran-tulang-belakang",
+    "name": "Putaran Tulang Belakang Berbaring",
+    "emoji": "🌀",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 24,
+    "dose": "30 saat setiap sisi",
+    "muscles": [
+      "Tulang belakang",
+      "Pinggang"
+    ],
+    "description": "Regangan lembut untuk melegakan belakang selepas hari yang panjang.",
+    "steps": [
+      "Baring terlentang dan depangkan tangan.",
+      "Bengkokkan lutut dan rapatkan.",
+      "Jatuhkan lutut ke kanan sambil memandang ke kiri.",
+      "Tahan dan bernafas, kemudian tukar sisi."
+    ],
+    "tips": [
+      "Kekalkan kedua-dua bahu rapat ke lantai."
+    ]
+  },
+  {
+    "id": "bridge-yoga",
+    "name": "Pose Jambatan (Bridge)",
+    "emoji": "🌉",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tikar",
+    "caloriesPer10Min": 26,
+    "dose": "3 × 30 saat",
+    "muscles": [
+      "Punggung",
+      "Dada",
+      "Belakang"
+    ],
+    "description": "Versi yoga glute bridge yang ditahan lebih lama untuk membuka dada.",
+    "steps": [
+      "Baring terlentang, lutut bengkok.",
+      "Angkat pinggul dan rapatkan tangan di bawah badan.",
+      "Buka dada ke arah dagu.",
+      "Tahan dan bernafas, kemudian turun perlahan."
+    ],
+    "tips": [
+      "Jangan pusingkan kepala semasa dalam pose ini."
+    ]
+  },
+  {
+    "id": "regangan-leher-bahu",
+    "name": "Regangan Leher & Bahu",
+    "emoji": "🙆‍♀️",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Tanpa alat",
+    "caloriesPer10Min": 21,
+    "dose": "20 saat setiap sisi",
+    "muscles": [
+      "Leher",
+      "Bahu"
+    ],
+    "description": "Melegakan ketegangan leher akibat menggunakan telefon dan komputer.",
+    "steps": [
+      "Duduk atau berdiri tegak.",
+      "Condongkan telinga kanan ke arah bahu kanan.",
+      "Letakkan tangan kanan perlahan di atas kepala untuk regangan lembut.",
+      "Tahan, kemudian tukar sisi. Akhiri dengan memutar bahu ke belakang 10 kali."
+    ],
+    "tips": [
+      "Sesuai dilakukan setiap 1 jam semasa bekerja."
+    ]
+  },
+  {
+    "id": "legs-up-the-wall",
+    "name": "Kaki ke Dinding",
+    "emoji": "🛋️",
+    "category": "Yoga & Regangan",
+    "level": "Mudah",
+    "equipment": "Dinding & tikar",
+    "caloriesPer10Min": 16,
+    "dose": "3–5 minit",
+    "muscles": [
+      "Kaki",
+      "Bawah belakang"
+    ],
+    "description": "Pose pemulihan yang melegakan kaki penat dan bengkak.",
+    "steps": [
+      "Duduk mengiring di sebelah dinding.",
+      "Baring dan hayun kaki ke atas dinding.",
+      "Rapatkan punggung ke dinding sekadar yang selesa.",
+      "Letakkan tangan di sisi dan bernafas perlahan."
+    ],
+    "tips": [
+      "Sangat sesuai sebelum tidur."
+    ]
+  }
+]

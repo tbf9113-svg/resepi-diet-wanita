@@ -1,26 +1,39 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/*
+ * Palet warna pastel aplikasi.
+ * Tailwind v4 menukar setiap --color-* di bawah menjadi kelas utiliti,
+ * cth: bg-blush-100, text-sage-700, border-cream-200.
+ */
+@theme {
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* Merah jambu lembut (warna utama) */
+  --color-blush-50: #fdf6f7;
+  --color-blush-100: #fae8eb;
+  --color-blush-200: #f5d0d7;
+  --color-blush-300: #eeb0bc;
+  --color-blush-500: #d97a8e;
+  --color-blush-600: #c25e74;
+  --color-blush-700: #9f4a5d;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Hijau sage (warna sekunder) */
+  --color-sage-50: #f4f7f3;
+  --color-sage-100: #e5ede2;
+  --color-sage-200: #cbdbc5;
+  --color-sage-500: #7e9c74;
+  --color-sage-700: #4f6849;
+
+  /* Neutral hangat (latar & teks) */
+  --color-cream-50: #fffcf8;
+  --color-cream-100: #faf5ee;
+  --color-cream-200: #f0e7db;
+  --color-cocoa-500: #8a7869;
+  --color-cocoa-700: #5c4e43;
+  --color-cocoa-900: #3a302a;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply bg-cream-50 text-cocoa-900 font-sans antialiased;
 }
